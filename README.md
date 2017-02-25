@@ -3,7 +3,8 @@ News aggregator using newsapi and hackernews api
 
 # Environment setup
 - Install python
-- pip install requests
+- python setup.py install
+- python newsh.py
 
 # Retrieve news from hacker news api and write the data to the text file
 python hacker_news.py
